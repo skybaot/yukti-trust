@@ -1,0 +1,287 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "team": "Our Team",
+    "login": "Login",
+    "profile": "Profile"
+  },
+  "hero": {
+    "welcome": "Welcome to Yukti Trust",
+    "tagline": "A Place Where Everyone is",
+    "seen": "Seen",
+    "heard": "Heard",
+    "valued": "Valued",
+    "description": "Empowering lives through support, connection, and understanding",
+    "explore": "Explore Services",
+    "contact": "Get in Touch"
+  },
+  "stats": {
+    "title": "Our Impact",
+    "lives": "Lives Touched",
+    "livesCount": "1000+",
+    "communities": "Communities",
+    "communitiesCount": "50+",
+    "support": "Support Available",
+    "supportCount": "24/7"
+  },
+  "about": {
+    "title": "About Yukti Trust",
+    "subtitle": "A Movement, A Family, A Place Where No One Feels Alone",
+    "story": {
+      "title": "Our Story",
+      "content": "To understand Yukti Trust, you first need to know about Yukti Vyas, the heart behind this initiative. She had almost everything in life, yet something was always missing—a grandparent's love, their care, their presence. As a child, this emptiness made her feel jealous and sad, and as she grew, it became a void in her heart—like a missing piece of a puzzle.",
+      "birth": "That's where the idea of Yukti Trust was born."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "subtitle": "To ensure that no one—whether differently-abled, elderly, or orphaned—ever feels alone",
+      "goals": {
+        "differently-abled": "Empower the Differently-Abled",
+        "differently-abled-desc": "Providing job opportunities, healthcare access, and emotional support for independent lives.",
+        "elders": "Support and Uplift Elders",
+        "elders-desc": "Bringing companionship, virtual events, and healthcare resources to those in their golden years.",
+        "orphans": "Guide and Protect Orphans",
+        "orphans-desc": "Offering education, mentorship, and skill development for a hopeful future.",
+        "community": "Build a Strong, Loving Community",
+        "community-desc": "Standing together as one family—supporting, guiding, and uplifting each other.",
+        "world": "Create a World Where Love Wins",
+        "world-desc": "Replacing loneliness with love, emptiness with purpose, and sorrow with hope."
+      }
+    },
+    "specialGroups": {
+      "title": "Who We Serve",
+      "subtitle": "At Yukti Trust, we work for three special groups",
+      "differently-abled": {
+        "title": "Differently-Abled Individuals",
+        "services": [
+          "Job Assistance – Government and private jobs suited to abilities",
+          "Healthcare Support – Directory of healthcare policies",
+          "Emotional Support – Safe space for connection through video/text"
+        ]
+      },
+      "elders": {
+        "title": "Elders",
+        "services": [
+          "Virtual Events with orphanages, other homes, and young people",
+          "Life Stories platform for sharing experiences",
+          "Healthcare Assistance and free services directory",
+          "Community Support for help and conversation",
+          "Old Age Home Directory with preference matching"
+        ]
+      },
+      "orphans": {
+        "title": "Orphans",
+        "services": [
+          "Education Programs with quality resources",
+          "Support Services for emotional and financial assistance",
+          "Orphanage Directory for adoption connections",
+          "Mentorship & Skill Development programs",
+          "Counseling for emotional healing"
+        ]
+      }
+    },
+    "why": {
+      "title": "Why Yukti Trust?",
+      "content": "Because everyone deserves love, care, and belonging—from the moment they are born till their final journey. We are here to fill the missing pieces in their lives and bring them the warmth of a family.",
+      "tagline": "Yukti Trust – A Family Beyond Blood, A Bond Beyond Time",
+      "join": "Join us in creating a world where Sneh (Love) is our strength, and Sena (Army) is our unity."
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Meet the passionate individuals behind Yukti Trust who work tirelessly to make a difference",
+    "members": {
+      "yukti": {
+        "name": "Yukti Vyas",
+        "role": "Founder & CEO",
+        "bio": "Dedicated to bringing positive change in the community"
+      },
+      "ujjwal": {
+        "name": "Ujjwal Sharma",
+        "role": "Technical Lead",
+        "bio": "Passionate about using technology to create social impact"
+      },
+      "harshul": {
+        "name": "Harshul Baluni",
+        "role": "Development Lead",
+        "bio": "Committed to building accessible and inclusive solutions"
+      },
+      "ayush": {
+        "name": "Ayush Thakkar",
+        "role": "UI/UX Designer",
+        "bio": "Creating intuitive and empathetic user experiences"
+      },
+      "khushbu": {
+        "name": "Khushbu",
+        "role": "Community Manager",
+        "bio": "Fostering connections and building strong community relationships"
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "We're here to help and answer any questions you might have",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message",
+      "phone": "Phone",
+      "subject": "Subject"
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    }
+  },
+  "auth": {
+    "welcome": "Welcome Back",
+    "signup": "Join Yukti Trust",
+    "email": "Email Address",
+    "password": "Password",
+    "fullName": "Full Name",
+    "remember": "Remember me",
+    "forgot": "Forgot password?",
+    "signin": "Sign In",
+    "createAccount": "Create Account",
+    "noAccount": "Don't have an account? Sign up",
+    "hasAccount": "Already have an account? Sign in"
+  },
+  "feedback": {
+    "title": "Share Your Feedback",
+    "message": "Tell us about your experience...",
+    "submit": "Submit Feedback",
+    "rating": "Rate your experience"
+  },
+  "services": {
+    "pageTitle": "Our Services",
+    "pageDescription": "Discover comprehensive support and resources tailored to meet the unique needs of our community members",
+    "searchPlaceholder": "Search for services...",
+    "learnMore": "Learn More",
+    "categories": {
+      "all": "All Services",
+      "support": "Support Services",
+      "care": "Care Services",
+      "education": "Education",
+      "volunteer": "Volunteer"
+    },
+    "title": "Our Services",
+    "description": "Empowering communities through comprehensive support and care",
+    "differently-abled": {
+      "title": "Support for Differently Abled",
+      "description": "Comprehensive support and resources for differently abled individuals",
+      "features": {
+        "jobs": "Job matching and career development",
+        "healthcare": "Healthcare services and resources",
+        "policy": "Policy and legal rights information",
+        "emotional": "Emotional support and counseling",
+        "accessibility": "Accessibility tools and technology",
+        "community": "Community events and activities"
+      },
+      "buttons": {
+        "jobs": "Job Opportunities",
+        "healthcare": "Healthcare",
+        "policy": "Policy Support",
+        "support": "Community Support"
+      }
+    },
+    "elders": {
+      "title": "Elder Care Services",
+      "description": "Supporting and caring for our elderly community members",
+      "features": {
+        "virtual": "Virtual social events and activities",
+        "stories": "Platform for sharing life experiences",
+        "healthcare": "Healthcare coordination and support",
+        "community": "Community engagement programs",
+        "homes": "Old age home assistance",
+        "activities": "Recreational and wellness activities"
+      },
+      "buttons": {
+        "events": "Social Events",
+        "stories": "Share Stories",
+        "healthcare": "Healthcare",
+        "community": "Community"
+      }
+    },
+    "orphans": {
+      "title": "Orphan Support",
+      "description": "Educational and emotional support for orphaned children",
+      "features": {
+        "education": "Quality education programs",
+        "support": "Emotional and financial support",
+        "directory": "Orphanage directory services",
+        "mentorship": "Professional mentorship",
+        "skills": "Skill development programs",
+        "counseling": "Counseling and healing support"
+      },
+      "buttons": {
+        "education": "Education",
+        "support": "Support",
+        "directory": "Directory"
+      }
+    },
+    "volunteers": {
+      "title": "Volunteer Programs",
+      "description": "Join our community of volunteers making a difference",
+      "features": {
+        "opportunities": "Volunteering opportunities",
+        "programs": "Training programs",
+        "events": "Community events",
+        "impact": "Impact tracking",
+        "recognition": "Volunteer recognition",
+        "network": "Network building"
+      },
+      "buttons": {
+        "opportunities": "Opportunities",
+        "programs": "Programs",
+        "events": "Events",
+        "training": "Training"
+      }
+    }
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "about": "About Us",
+    "contact": "Contact",
+    "services": "Services",
+    "privacy": "Privacy Policy",
+    "contactInfo": "Contact Info",
+    "followUs": "Follow Us",
+    "rights": "© 2024 A Place Where Everyone is Seen, Heard, and Valued. All rights reserved."
+  },
+  "serviceDetail": {
+    "backToServices": "Back to Services",
+    "whatWeOffer": "What We Offer",
+    "getStarted": "Get Started",
+    "services": {
+      "differently-abled": {
+        "title": "Differently-Abled Services",
+        "description": "Comprehensive support and resources for differently-abled individuals.",
+        "details": [
+          "Personalized job matching and career development",
+          "Access to healthcare services and medical resources",
+          "Information about policies and legal rights",
+          "Emotional support and counseling services",
+          "Accessibility tools and assistive technology",
+          "Community events and social activities"
+        ]
+      },
+      "elders": {
+        "title": "Elder Care Services",
+        "description": "Supporting and enriching the lives of our elderly community members.",
+        "details": [
+          "Virtual social events and activities",
+          "Platform for sharing life experiences",
+          "Healthcare coordination and support",
+          "Community engagement programs",
+          "Old age home assistance and placement",
+          "Recreational and wellness activities"
+        ]
+      }
+    }
+  }
+}

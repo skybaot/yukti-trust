@@ -1,0 +1,124 @@
+{
+  "common": {
+    "siteName": "Yukti Trust",
+    "tagline": "Empowering Communities Through Care and Support"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact Us",
+    "login": "Login"
+  },
+  "team": {
+    "title": "Meet Our Team",
+    "subtitle": "Passionate individuals working together to make a difference",
+    "members": {
+      "yukti": {
+        "name": "Yukti Vyas",
+        "role": "CEO & Founder",
+        "bio": "Visionary leader driving Yukti Trust's mission to create positive social impact through innovative solutions and community empowerment."
+      },
+      "ujjwal": {
+        "name": "Ujjwal Sharma",
+        "role": "Backend Team Lead",
+        "bio": "Expert in database architecture and server-side development, leading our technical infrastructure and backend operations."
+      },
+      "harshul": {
+        "name": "Harshul Baluni",
+        "role": "Frontend Developer",
+        "bio": "Creative frontend developer bringing user interfaces to life while maintaining a barely alive status."
+      },
+      "ayush": {
+        "name": "Ayush Thakkar",
+        "role": "AI/ML Specialist",
+        "bio": "Leading our artificial intelligence and machine learning initiatives to enhance our services and solutions."
+      },
+      "khushbu": {
+        "name": "Khushbu",
+        "role": "Backend Developer",
+        "bio": "Skilled backend developer contributing to our robust and scalable server-side solutions."
+      }
+    }
+  },
+  "services": {
+    "pageTitle": "Our Services",
+    "pageDescription": "Comprehensive support services for our community",
+    "searchPlaceholder": "Search services...",
+    "learnMore": "Learn More",
+    "categories": {
+      "all": "All Services",
+      "support": "Support",
+      "care": "Care",
+      "education": "Education",
+      "volunteer": "Volunteer"
+    },
+    "differently-abled": {
+      "title": "Support for Differently Abled",
+      "description": "Comprehensive support and accessibility services",
+      "features": {
+        "jobs": "Job Opportunities",
+        "healthcare": "Healthcare Support",
+        "policy": "Policy Advocacy",
+        "emotional": "Emotional Support",
+        "accessibility": "Accessibility Solutions",
+        "community": "Community Integration"
+      }
+    },
+    "elders": {
+      "title": "Elder Care Services",
+      "description": "Dedicated support for our senior citizens",
+      "features": {
+        "virtual": "Virtual Companionship",
+        "stories": "Story Sharing",
+        "healthcare": "Healthcare Assistance",
+        "community": "Community Events",
+        "homes": "Elder Home Support",
+        "activities": "Engaging Activities"
+      }
+    },
+    "orphans": {
+      "title": "Orphan Support",
+      "description": "Nurturing care for children in need",
+      "features": {
+        "education": "Education Support",
+        "support": "Daily Care",
+        "directory": "Resource Directory",
+        "mentorship": "Mentorship Programs",
+        "skills": "Life Skills Training",
+        "counseling": "Counseling Services"
+      }
+    },
+    "volunteers": {
+      "title": "Volunteer Programs",
+      "description": "Join us in making a difference",
+      "features": {
+        "opportunities": "Volunteer Opportunities",
+        "programs": "Training Programs",
+        "events": "Community Events",
+        "impact": "Impact Tracking",
+        "recognition": "Volunteer Recognition",
+        "network": "Support Network"
+      }
+    }
+  },
+  "footer": {
+    "description": "Empowering communities through compassionate service and sustainable development.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact Us",
+    "service1": "Community Development",
+    "service2": "Healthcare Support",
+    "service3": "Education Programs",
+    "service4": "Elder Care Services",
+    "rights": "All rights reserved.",
+    "address": "Mumbai, Maharashtra, India",
+    "email": "contact@yuktitrust.org",
+    "phone": "+91 1234567890",
+    "socialMedia": {
+      "facebook": "Visit our Facebook page",
+      "twitter": "Follow us on Twitter",
+      "instagram": "Follow us on Instagram"
+    }
+  }
+}

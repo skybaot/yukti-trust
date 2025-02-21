@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Roboto', system-ui, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', system-ui, sans-serif;
+  }
+}
+
+/* Section Styling */
+.section-container {
+  @apply relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24;
+}
+
+.section-divider {
+  @apply relative h-32 w-full overflow-hidden;
+}
+
+.section-pattern {
+  @apply absolute inset-0 opacity-10;
+  background-image: radial-gradient(circle, currentColor 1px, transparent 1px);
+  background-size: 3rem 3rem;
+}
+
+.section-gradient {
+  @apply absolute inset-0;
+  background: linear-gradient(180deg, 
+    transparent 0%, 
+    theme('colors.primary.50') 100%
+  );
+}
+
+.section-content {
+  @apply relative z-10;
+}
+
+/* Custom scrollbar styling */
+.overflow-x-auto {
+  scrollbar-width: thin;
+  scrollbar-color: theme('colors.primary.500') theme('colors.gray.200');
+}
+
+.overflow-x-auto::-webkit-scrollbar {
+  height: 6px;
+}
+
+.overflow-x-auto::-webkit-scrollbar-track {
+  background: theme('colors.gray.200');
+  border-radius: 3px;
+}
+
+.overflow-x-auto::-webkit-scrollbar-thumb {
+  background-color: theme('colors.primary.500');
+  border-radius: 3px;
+}
+
+/* Smooth scrolling for the entire page */
+html {
+  scroll-behavior: smooth;
+}
+
+.bg-grid-pattern {
+  background-image: radial-gradient(circle, currentColor 1px, transparent 1px);
+  background-size: 3rem 3rem;
+}
